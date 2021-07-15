@@ -1,5 +1,10 @@
 body {
   background-image: url("../img/Blue-Background.jpg");
+  background-color: skyblue;
+  background-repeat: no-repeat;
+  overflow-x: hidden;
+  background-size: 100vw auto;
+
 }
 
 p.title {
