@@ -1,10 +1,16 @@
 body {
   background-image: url("../img/Blue-Background.jpg");
   background-color: skyblue;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   overflow-x: hidden;
   background-size: 100vw auto;
 
+}
+
+p.aboutMeLink {
+  font-family: "Raleway";
+  font-size: 20px;
+  color: purple;
 }
 
 p.title {
